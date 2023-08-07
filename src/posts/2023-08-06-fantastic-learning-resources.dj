@@ -26,14 +26,14 @@ feel free to stop doing problems as soon as it stops being fun.
 
 <https://en.wikipedia.org/wiki/Modern_Operating_Systems> is fantastic. A [version of the
 book](https://en.wikipedia.org/wiki/Operating_Systems:_Design_and_Implementation) was the first
-thick programming related tome I devoured. It gives a big picture of the inner workings of software
+thick programming related to me I devoured. It gives a big picture of the inner workings of software
 stack, and was a turning point for me personally. After reading this book I realized that I want to
 be a programmer.
 
 ## Nand to Tetris
 
 <https://www.nand2tetris.org> is fantastic. It plays a similar "big picture" role as MOS,
-but this time you are the painter. In this course you build a whole computing system yourself,
+but this time you are the painter. In this course, you build a whole computing system yourself,
 starting almost from nothing. It doesn't teach you how the real software/hardware stack works, but
 it thoroughly dispels any magic, and is extremely fun.
 
@@ -78,7 +78,7 @@ But if you have the problem, you can self-improve noticing the following:
 - Techniques --- can you apply anything you've read about this week? How would the problem be solved
   in Haskell? Could you apply pattern from language X in language Y?
 
-In this context it is important to solve the same problem repeatedly. E.g., you could try solving
+In this context, it is important to solve the same problem repeatedly. E.g., you could try solving
 the same model problem in all languages you know, with a month or two break between attempts.
 Repeatedly doing the same thing and noticing differences and similarities between tries is the
 essence of self-learning.
@@ -106,7 +106,7 @@ There are three levels of learning algorithms
 
   You are not actually learning algorithms, you are learning programming. At this stage, it doesn't
   matter how long your code is, how pretty it is, or how efficient it is. The only thing that
-  matters is that it solve the problem. Generally, this level ends when you are fairly comfortable
+  matters is that it solves the problem. Generally, this level ends when you are fairly comfortable
   with recursion. Few first problems from Project Euler are a great resource here.
 
 : Level 2
@@ -188,7 +188,7 @@ messed up. Here are some great projects to do:
 : Dynamically Typed Programming Language
 
   An _interpreter_ which reads source code as text, parses it into an AST, and directly executes the
-  AST (or maybe converts AST to the byte code fore some speed up)
+  AST (or maybe converts AST to the byte code for some speed up)
 
 : Statically Typed Programming Language
 
